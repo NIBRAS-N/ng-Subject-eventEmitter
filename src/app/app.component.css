@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: aliceblue;
+}
+.container{
+    padding: 3rem;
+    min-height: 100vh;
+}

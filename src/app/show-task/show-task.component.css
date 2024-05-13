@@ -1,0 +1,20 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    /* border: 2px solid red; */
+    margin-inline: auto;
+    padding:2rem;
+    background-color: rgb(205, 235, 236);
+}
+
+.wrapper p{
+    padding:1rem;
+    /* border: 2px solid green; */
+    background-color: rgb(187, 210, 210);
+    text-align: center;
+    margin:5px 5px;
+    color: black;
+    font-weight: bolder;
+    font-size: xx-large;
+}
