@@ -7,7 +7,12 @@
     padding:2rem;
     background-color: rgb(205, 235, 236);
 }
-
+.ll{
+    padding: 2rem;
+    background: red;
+    color: white;
+    font-size: larger;
+}
 .wrapper p{
     padding:1rem;
     /* border: 2px solid green; */
